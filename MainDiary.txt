@@ -1,16 +1,16 @@
-Name:
-Address:
+Name: Lois May Cezar
+Address: 
 
 ---- MY FAVORITES ----
-Food:
-Number: 
-Colour:
+Food: 
+Number: 4
+Colour: Blue
 Flower:
 Drink:
-Movie:
-TV Series:
+Movie: 
+TV Series: 
 Animal:
-Celebrity:
+Celebrity: Lee Jae Wook
 Hobby: 
 Solo Artist:
 Band:
