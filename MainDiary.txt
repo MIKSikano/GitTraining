@@ -1,17 +1,17 @@
-Name:
-Address:
+Name: Rocky Rocamora
+Address: 21 Fidela Soriano St. Hulong duhat Malabon City
 
 ---- MY FAVORITES ----
-Food:
-Number: 
-Colour:
-Flower:
-Drink:
-Movie:
-TV Series:
-Animal:
-Celebrity:
-Hobby: 
+Food: Carbonara
+Number: 09222059559
+Colour: Blue
+Flower: None
+Drink: Cucumber Lemon Juice
+Movie: None
+TV Series: None
+Animal: Cat
+Celebrity: Cristiano Ronaldo
+Hobby: Lifting Weights
 Solo Artist:
 Band:
 Current Song: 
