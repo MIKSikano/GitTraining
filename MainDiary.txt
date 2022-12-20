@@ -11,13 +11,13 @@ Movie: None
 TV Series: None
 Animal: Cat
 Celebrity: Cristiano Ronaldo
-Hobby: Lifting Weights
-Solo Artist:
-Band:
-Current Song: 
-Sport:
-Anime: 
-Game:
+Hobby: Lifting Weights, Playing Mobile Legends, Walking
+Solo Artist: None
+Band: Westlife
+Current Song: None
+Sport: Football
+Anime: Avatar the last airbender
+Game: Mobile Legends
 Quote:
 
 ---- WHAT'S THE FIRST... ----
