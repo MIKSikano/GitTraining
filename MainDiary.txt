@@ -161,3 +161,28 @@ first risk I ever took: Applied for Academic Scholarship
 book that you read: Stillness is the Key by Ryan Holiday
 movie I cried at: The Pursuit of Happyness
 thing you do before falling asleep: Listening to Music
+
+
+
+____________________________________________________________________________________________
+
+
+December 21, 2022 (Scrum Version)
+
+Name: Daryl James J. Makalintal
+Address: Angono, Rizal
+
+WHAT DID YOU DO YESTERDAY:
+- studied pluralsight course about visual studio
+- studied pdf files regarding the products of benefits access
+- had a discussion wiith ms. Deb regarding the new user creation and user access
+
+WHAT WILL YOU DO TODAY:
+- Will continue with the pluralsight course about visual studio
+- will have a discussion with sir Alain regarding the inventory management
+
+ANY BLOCKERS:
+- None
+
+ANY COMMENTS:
+- Day 2 of using git
